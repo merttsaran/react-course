@@ -9,7 +9,13 @@ Learning React by following the full course **React Tutorial Full Course - Begin
 - [x] Props
 - [x] State
 - [x] Hooks
-- [ ] 
+- [ ] Conditional rendering
+- [ ] Lists and keys
+- [ ] Controlled inputs (forms)
+- [ ] useEffect
+- [ ] Custom hooks
+- [ ] Context API
+- [ ] Routing
 
 ## Technologies Used
 
