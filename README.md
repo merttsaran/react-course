@@ -7,8 +7,8 @@ Learning React by following the full course **React Tutorial Full Course - Begin
 - [x] JSX basics
 - [x] Components
 - [x] Props
-- [ ] State
-- [ ] Hooks
+- [x] State
+- [x] Hooks
 - [ ] 
 
 ## Technologies Used
